@@ -2,7 +2,7 @@
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
       <h1>
-        <a href="{{ site.url }} target=_blank">
+        <a href="{{ site.baseurl }}">
           {{ site.title }}
         </a>
       </h1>
@@ -10,37 +10,22 @@
     </div>
 
     <nav class="sidebar-nav">
-     # <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
 
       {% comment %}
-        The code below dynamically generates a sidebar nav of pages with
-        `layout: page` in the front-matter. See readme for usage.
+        The code below dynamically generates a sidebar nav based on data in `_data/navigation.yaml`.
       {% endcomment %}
 
-      {% assign pages_list = site.pages %}
-      {% for node in pages_list %}
-        {% if node.title != null %}
-          {% if node.layout == "page" %}
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
-          {% endif %}
+      {% assign menu_items = site.data.navigation %}
+      {% for item in menu_items %}
+        <h2>{{ item.title }}</h2>
+        {% if item.pages %}
+          {% for page in item.pages %}
+            <a class="sidebar-nav-item{% if page.url == page.url %} active{% endif %}" href="{{ page.url }}">{{ page.title }}</a>
+          {% endfor %}
         {% endif %}
       {% endfor %}
 
-        {% for section in site.data.navigation %}
-    <h1>{{ section.title }}</h1>
-    <ul>
-      {% for link in section.pages %}
-        <li>
-          <a class="sidebar-nav-item{% if page.url == link.url %} active{% endif %}"
-            href="{{ site.baseurl }}{{ link.url }}">
-            {{ link.title }}
-          </a>
-        </li>
-      {% endfor %}
-    </ul>
-  {% endfor %}
-
-      
       <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
     </nav>
 
