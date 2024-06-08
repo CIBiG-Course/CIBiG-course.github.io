@@ -3,8 +3,6 @@ layout: page
 title: Trainers
 ---
 
-## Trainers
-
 * Martine Bangratz, UMR PHIM, IRD - séquençage
 * Marie Couderc, UMR DIADE, IRD - séquençage
 * Enseignant en Côte d' Ivoire ? - séquençage
