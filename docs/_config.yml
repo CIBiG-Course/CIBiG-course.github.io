@@ -29,7 +29,7 @@
 `name: CIBiG`
 markdown: redcarpet
 pygments: true
-baseurl: /Docs
+#baseurl: /Docs
 
 ##########################
 #
