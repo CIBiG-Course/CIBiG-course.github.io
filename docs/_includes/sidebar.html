@@ -11,12 +11,7 @@
 
     <nav class="sidebar-nav">
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
-
-      {% comment %}
-        Le code ci-dessous génère dynamiquement une barre de navigation latérale
-        basée sur les données dans `_data/navigation.yaml`.
-      {% endcomment %}
-
+      
       {% assign menu_items = site.data.navigation %}
       {% for item in menu_items %}
         <h1>{{ item.title }}</h1>
