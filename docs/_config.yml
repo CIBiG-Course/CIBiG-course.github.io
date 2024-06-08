@@ -3,24 +3,10 @@ markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
-permalink:        pretty
-relative_permalinks: true
+#permalink:        pretty
+#relative_permalinks: true
 
 # Setup
 title: CIBig
-tagline:          'A Jekyll theme'
 description: From sequencing data production to analysis for agriculture and health
-url:              http://hyde.getpoole.com
-baseurl:          /
 
-author:
-  name:           'Christine Tranchant-Dubreuil'
-  url:            https://twitter.com/mctd
-
-paginate:         5
-
-# Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/poole/hyde
