@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Trainers
-permalink: /intro/Trainers
+permalink: /intro/Trainers/
 ---
 
 ## Trainers
