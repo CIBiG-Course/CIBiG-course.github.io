@@ -19,7 +19,7 @@
 
       {% assign menu_items = site.data.navigation %}
       {% for item in menu_items %}
-        {{ item.title }}
+        <h1>{{ item.title }}</h1>
         {% if item.pages %}
           {% for page in item.pages %}
             <a class="sidebar-nav-item{% if page.url == page.url %} active{% endif %}" href="{{ page.url }}">{{ page.title }}</a>
