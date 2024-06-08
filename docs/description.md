@@ -39,11 +39,3 @@ The certificate offers a multidisciplinary training, covering technical and scie
 A large part of the curriculum is devoted to practical work, projects and internships.
 The tutored project, which starts in the second week of the course, involves identifying the data to be analyzed and defining the bioinformatics strategy. It continues during weeks 3 and 4 with group work to design workflows and analyze data. It ends with an oral presentation of the project.
 At the end of the 4-week course, each student will complete a one-month immersion internship, supervised by a pair of North/South teaching tutors and a scientific supervisor from the host laboratory. 
-
-### Coordination : 
-Romaric Kiswendsida NANEMA - Université Joseph KI-ZERBO, plateforme BBi
-Ezechiel Bionimian TIBIRI - WAVE, INERA, plateforme BBI 
-Fidèle TIENDREBEOGO - WAVE, INERA
-Christine Tranchant-Dubreuil - UMR DIADE/plateau bioinformatique itrop, IRD
-
-Contact: bioinfo@wave-center.org
