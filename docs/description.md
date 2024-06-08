@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Description 
-permalink: /description/
+#permalink: /description/
 ---
 
 ## Description
