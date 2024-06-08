@@ -24,8 +24,5 @@ author:
 github:
   repo:           https://github.com/CIBiG-Course/CIBiG-course.github.io
 
-include: 
-  - _pages
-
 exclude:
   -README.md
