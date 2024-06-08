@@ -10,7 +10,7 @@
 title:            CIBiG
 tagline:          'A Jekyll theme'
 description:      'From sequencing data production to analysis for agriculture and health.'
-url:              'cibig-course.github.io'
+baseurl:              'cibig-course.github.io'
 author:
   name:           'Christine Tranchant-Dubreuil'
   mail:            'Christine.tranchant@ird.fr'
