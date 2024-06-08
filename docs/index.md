@@ -7,7 +7,8 @@ The International Certificate in Bioinformatics and Genomics (CIBiG) offers an i
 
 This training provides a rapid acquisition of essential skills in bioinformatics and genomics.
 
-* When ? 9 September - 4 Octobre 2024
+{% <img src="https://cibig-course.github.io/public/icon_calendar.png" width="50%" height="width="50%" >%}
+ 9 September - 4 Octobre 2024
 * Where ? WAVE institute
 * Cost :
 * Contact : bioinfo@wave-center.org
