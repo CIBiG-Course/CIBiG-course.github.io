@@ -1,0 +1,21 @@
+- title: Course overview
+  pages:
+  - title: Description
+    url: /intro/description/
+  - title: Trainers
+    url: /intro/trainers/
+
+- title: Programme
+  pages:
+  - title: Modules
+    url: /pg/modules/
+  - title: Planning
+    url: /pg/timetable/
+
+- title: How to apply 
+  pages:
+  - title: Registration
+    url: /registration/apply/
+  - title: Costs
+    url: /registration/costs/
+
