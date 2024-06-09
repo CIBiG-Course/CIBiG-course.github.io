@@ -31,7 +31,7 @@ This training provides a rapid acquisition of essential skills in bioinformatics
 </div>
 <div>
 
-The <a href="https://wave-center.org/" target_blank>WAVE Regional Center of Excellence</a>, Université Felix Houphouët Boigny, Pôle Scientifique et d'Innovation de Bingerville, Abijan
+The <a href="https://wave-center.org/" target_blank>WAVE Regional Center of Excellence</a>, Université Felix Houphouët Boigny, Bingerville, Abijan
 </div>
 </div>
 
