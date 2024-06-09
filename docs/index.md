@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<img src="public/logo1.jpeg" style="display: block; margin: 0 auto; width: 50%; height: 50%;">
+<img src="public/logo_uboigny.jpeg" style="display: block; margin: 0 auto; width: 20%; height: 20%;">
   
 The International Certificate in Bioinformatics and Genomics (CIBiG) offers an intensive and concise training aimed at scientists at the intersection of mathematics, biology, and computer science.
 
