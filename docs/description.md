@@ -38,5 +38,5 @@ The certificate provides comprehensive multidisciplinary training in advancing c
 
 ### Practical sessions
 
-* Tutored Project: Begins in the second week with data identification and bioinformatics strategy definition, followed by workflow design, data analysis, and a final oral presentation.
-* One-Month Internship: Following the 4-week course, each student completes a supervised immersion internship supervised by two teaching tutors and a researcher from the host laboratory.
+* A tutored project will begin in the second week with data identification and bioinformatics strategy definition, followed by workflow design, data analysis, and a final oral presentation.
+* One-Month Internship: Following the 4-week course, each student will complete a supervised immersion internship supervised by two teaching tutors and a researcher from the host laboratory.
