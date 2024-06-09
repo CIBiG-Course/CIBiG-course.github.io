@@ -17,8 +17,8 @@ This training provides a rapid acquisition of essential skills in bioinformatics
 
 
 <div style="display: flex; align-items: center;">
-<div>
-<img src="public/icon_calendar.png" width="4%" height="4%">
+<div style="margin-left: 20px; margin-right: 20px;">
+<img src="public/icon_calendar-5.png">
 </div>
 <div>
 9 September - 4 October 2024
