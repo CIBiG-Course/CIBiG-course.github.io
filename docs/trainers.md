@@ -5,7 +5,7 @@ title: Trainers
 
 ## Trainers
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;" justify-content: space-between;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
 
   <div style="flex: 1 1 calc(25% - 20px); text-align: center; margin-bottom: 20px;">
     <img src="public/trainer_anonym.jpeg"  style="width: 30%; border-radius: 60%;">
@@ -74,6 +74,7 @@ title: Trainers
     <img src="public/trainer_christine_tranchant.jpeg"  style="width: 30%; border-radius: 60%;">
     <p>Christine Tranchant-Dubreuil - IRD</p>
   </div>
+
 </div>
 
 
