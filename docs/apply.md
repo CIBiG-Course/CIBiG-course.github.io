@@ -3,8 +3,6 @@ layout: page
 title: How to apply ?
 ---
 
-# Applications 
-
 To apply for the course, please submit a single pdf document via email to bioinfo@wave-center.org.
 The pdf document should include the following documents :
 * Curriculum Vitae
