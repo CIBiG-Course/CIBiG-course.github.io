@@ -11,7 +11,7 @@ title: Home
 <br />
 <div>
  <p align="justify">
-The International Certificate in Bioinformatics and Genomics (CIBiG) offers an intensive and concise training aimed at scientists at the intersection of mathematics, biology, and computer science.
+The International Certificate in Bioinformatics and Genomics (CIBiG) offers an intensive training aimed at scientists at the intersection of mathematics, biology, and computer science.
 
 This training provides a rapid acquisition of essential skills in bioinformatics and genomics. It includes acquiring the fundamental principles of bioinformatics, understanding sequencing techniques and their application, as well as using bioinformatics tools to automate the collection and management of sequencing data. Additionally, it aims to develop practical skills in the analysis and interpretation of these data.
 
@@ -39,7 +39,7 @@ The <a href="https://wave-center.org/" target_blank>WAVE Regional Center of Exce
 <img src="public/icon-dollar-5.png">
 </div>
 <div>
-2,000,000 CFA
+2,200,000 CFA
 </div>
 </div>
 
