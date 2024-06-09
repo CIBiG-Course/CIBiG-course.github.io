@@ -3,10 +3,32 @@ layout: page
 title: Contact
 ---
 
-bioinfo@wave-center.org
+<div style="flex: 1 1 calc(33.333% - 20px); text-align: center; margin-bottom: 20px;">
+    <img src="public/trainer_romaric.jpeg" style="height: 150px; border-radius: 50%;">
+    <p>Romaric Kiswendsida NANEMA - Université Joseph Ki-Zerbo</p>
+  </div>
 
-### Coordination 
-* Romaric Kiswendsida NANEMA - Université Joseph KI-ZERBO
-* Ezechiel Bionimian TIBIRI - WAVE
-* Fidèle TIENDREBEOGO - WAVE
-* Christine Tranchant-Dubreuil - IRD
+<div style="flex: 1 1 calc(33.333% - 20px); text-align: center; margin-bottom: 20px;">
+    <img src="public/trainer_anonym.jpeg" style="height: 150px; border-radius: 50%;">
+    <p>Ezechiel Bionimian TIBIRI - WAVE</p>
+  </div>
+
+  <div style="flex: 1 1 calc(33.333% - 20px); text-align: center; margin-bottom: 20px;">
+    <img src="public/trainer_fidele.jpeg" style="height: 150px; border-radius: 50%;">
+    <p>Fidèle TIENDREBEOGO - WAVE</p>
+  </div>
+
+  <div style="flex: 1 1 calc(33.333% - 20px); text-align: center; margin-bottom: 20px;">
+    <img src="public/trainer_christine_tranchant.jpeg" style="height: 150px; border-radius: 50%;">
+    <p>Christine Tranchant-Dubreuil - IRD</p>
+  </div>
+
+<div style="display: flex; align-items: center;">
+<div style="margin-left: 15px; margin-right: 10px;">
+<img src="public/icon_email-5.png">
+</div>
+<div>
+ bioinfo@wave-center.org
+</div>
+</div>
+

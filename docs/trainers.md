@@ -3,8 +3,6 @@ layout: page
 title: Trainers
 ---
 
-## Nos Formateurs
-
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
 
   <div style="flex: 1 1 calc(33.333% - 20px); text-align: center; margin-bottom: 20px;">
