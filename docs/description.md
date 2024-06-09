@@ -18,16 +18,16 @@ The certificate provides comprehensive multidisciplinary training in advancing c
 * 12 hours of distance learning
 * 153 hours in the WAVE center
 
-| Module                                             | Description                                                                                                                                                                                                        | Hours |
-|----------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|  
-| Course review                                      | General biology, Genomics basis, Genome Structure and Dynamics / Evolution, Sequencing and Applications                                                                                                            | 12H   | 
-| Sequencing: from library preparation to sequencing | Overview of Sequencing Technologies & Applications, RNA/DNA Extraction, Library Preparation for Illumina and ONT, Sequencing and Quality Control                                                                   | 38h (L: 6, P: 32) |
-| Biological database                                | Sequence Databases (e.g., NCBI/SWISS-Prot), Blast Alignment, Primer design                                                                                                                                         | 8h (L; 2, P: 6) |
-| Linux                                              | Basic Linux Commands,  Bioinformatics Tools (e.g., BLAST), Advanced Linux (e.g., sed, awk), VCF, GFF Manipulation, slurm, Containers (Singularity, Conda)                                                          | 32h   |
-| Data analysis and visualization in R                                 | Read Tabular File into DataFrame, DataFrame Manipulation, Data Visualization (Plotting), R Markdown                                                                                                                | 12h   |
-| OMICs data analysis | Diversity analysis, metagenomic analysis, Illumina Sequence Quality Analysis, Reference Mapping, Structural Variant detectection, SV Annotation, ONT Data Analysis | 34h   | 
-| Python programming                                                   |                                                                                                                                                                                                                    | 28h   |          
-| open science and science reproductibility | Best Practices (Data Management, Code, Licensing), Containers (Docker, Singularity), Conda, Git, Snakemake                                                                                                         | 12h   |              |                                                                                                                                                           |                   |
+| Module                   | Description                                                                                                                                              | Hours |
+|--------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|----|  
+| Course review            | General biology, Genomics basis, Genome Structure and Dynamics / Evolution, Sequencing technologiesand Applications                                      | 12H | 
+| Sequencing: from library preparation to sequencing | Overview of Sequencing Technologies, RNA/DNA Extraction, Library Preparation for Illumina and ONT, Sequencing and Quality Control          | 38h |
+| Biological database      | Sequence Databases (e.g., NCBI/SWISS-Prot), Blast Alignment, Primer design                                                                               | 8h |
+| Linux                    | Basic Linux Commands,  Bioinformatics Tools (e.g., BLAST), Advanced Linux (e.g., sed, awk), VCF, GFF Manipulation, slurm, Containers (Singularity, Conda) | 32h |
+| Data analysis and visualization in R | Read Tabular File into DataFrame, DataFrame Manipulation, Data Visualization (Plotting), R Markdown                                                      | 12h |
+| OMICs data analysis | Diversity analysis / metagenomic analysis (ONT and illumina sequencing, Sequence Quality, Mapping, Structural Variant detection, SNP Annotation)         | 34h | 
+| Python programming       |                                                                                                                                                          | 28h |
+| open science and science reproductibility | Best Practices (Data Management, Code, Licensing), Containers (Docker, Singularity), Conda, Git, Snakemake                                               | 12h |
 
 ### Practical sessions
 
