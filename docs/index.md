@@ -17,7 +17,7 @@ This training provides a rapid acquisition of essential skills in bioinformatics
 
 
 <div style="display: flex; align-items: center;">
-<div style="margin-left: 5px; margin-right: 5px;">
+<div style="margin-left: 15px; margin-right: 10px;">
 <img src="public/icon_calendar-5.png">
 </div>
 <div>
@@ -26,7 +26,7 @@ This training provides a rapid acquisition of essential skills in bioinformatics
 </div>
 
 <div style="display: flex; align-items: center;">
-<div style="margin-left: 5px; margin-right: 5px;">
+<div style="margin-left: 15px; margin-right: 10px;">
 <img src="public/icon_place-5.png">
 </div>
 <div>
@@ -36,7 +36,7 @@ The <a href="https://wave-center.org/" target_blank>WAVE Regional Center of Exce
 </div>
 
 <div style="display: flex; align-items: center;">
-<div style="margin-left: 5px; margin-right: 5px;">
+<div style="margin-left: 15px; margin-right: 10px;">
 <img src="public/icon-dollar-5.png">
 </div>
 <div>
@@ -45,7 +45,7 @@ The <a href="https://wave-center.org/" target_blank>WAVE Regional Center of Exce
 </div>
 
 <div style="display: flex; align-items: center;">
-<div style="margin-left: 5px; margin-right: 5px;">
+<div style="margin-left: 15px; margin-right: 10px;">
 <img src="public/icon_email-5.png">
 </div>
 <div>
@@ -54,12 +54,11 @@ The <a href="https://wave-center.org/" target_blank>WAVE Regional Center of Exce
 </div>
 
 <div style="display: flex; align-items: center;">
-<div style="margin-left: 5px; margin-right: 5px;">
+<div style="margin-left: 15px; margin-right: 10px;">
 <img src="public/icon_apply-5.png">
 </div>
 <div>
 Open application with selection : 15 places
-</div>
 </div>
 </div>
 
