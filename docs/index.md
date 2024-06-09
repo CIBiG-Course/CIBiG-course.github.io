@@ -17,7 +17,7 @@ This training provides a rapid acquisition of essential skills in bioinformatics
 
 
 <div style="display: flex; align-items: center;">
-<div style="margin-left: 20px; margin-right: 20px;">
+<div style="margin-left: 5px; margin-right: 5px;">
 <img src="public/icon_calendar-5.png">
 </div>
 <div>
