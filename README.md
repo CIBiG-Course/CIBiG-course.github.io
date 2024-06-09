@@ -8,10 +8,10 @@
 The CIBiG  offers an intensive training aimed at PhD students and researchers who use sequencing technologies and data in their research. This one-month training  provides comprehensive insights into sequencing, genomics and bioinformatics, and will teach participants how to effectively use bioinformatics methods to analyse sequencing data, with a focus on applications in agriculture and health.
 
 | Date | Location | Trainees | Status | 
-|---------|---------|---------|---------|---------|
+|---------|---------|---------|---------|
 | 9 September - 4 October 2024 | The <a href="https://wave-center.org/" target_blank>WAVE Regional Center of Excellence</a>, Université Felix Houphouët Boigny, Bingerville, Abijan | 15 participants | Application opened |
 
-![web site](https://cibig-course.github.io/)
+[More information on the CIBIG web site](https://cibig-course.github.io/)
 
 <div style="display:flex"> 
 <img src="img/logo_ujkz.jpeg" style="display: block; margin: 0 auto; width: 16%;">
