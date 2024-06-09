@@ -63,5 +63,6 @@ Open application with selection : 15 places
 
 <div style="display:flex"> 
 <img src="public/logo_ujkz.jpeg" style="display: block; margin: 0 auto; width: 13%; height: 13%;">
+<img src="public/logo_itrop.png" style="display: block; margin: 0 auto; width: 14%; height: 25%;">
 <img src="public/logo-ird-grey.jpg" style="display: block; margin: 0 auto; width: 25%; height: 25%;">
 </div> 
