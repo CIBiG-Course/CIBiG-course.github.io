@@ -1,1 +1,1 @@
-# CIBiG-course.github.io
+ [CIBiG-course.github.io](https://cibig-course.github.io/)
