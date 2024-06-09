@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Linux Training"
+title: "Linux"
 #permalink: /linux/
-tags: [ linux, survival guide ]
-description: Linux page
+#tags: [ linux, survival guide ]
+#description: Linux page
 ---
 
 <table class="table-contact">
