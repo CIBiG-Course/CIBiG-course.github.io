@@ -4,8 +4,8 @@ title: Home
 ---
 
 <div style="display:flex"> 
-<img src="public/logo_wave2.jpeg" style="display: block; margin: 0 auto; width: 27%; height: 27%;">
-<img src="public/logo_uboigny.jpeg" style="display: block; margin: 0 auto; width: 18%; height: 18%;">
+<img src="public/logo_wave2.jpeg" style="display: block; margin: 0 auto; width: 30%; height: 30%;">
+<img src="public/logo_uboigny.jpeg" style="display: block; margin: 0 auto; width: 20%; height: 20%;">
 </div> 
 
 <br />
@@ -52,7 +52,7 @@ The <a href="https://wave-center.org/" target_blank>WAVE Regional Center of Exce
 
 <div style="display: flex; align-items: center;">
 <div style="margin-left: 15px; margin-right: 10px;">
-<img src="public/logo1.jpeg" style="vertical-align: middle;">
+<img src="public/icon_apply-5.png" style="vertical-align: middle;">
 </div>
 <div>
 Open application with selection : 15 places
@@ -62,7 +62,7 @@ Open application with selection : 15 places
 <br/>
 
 <div style="display:flex"> 
-<img src="public/logo_ujkz.jpeg" style="display: block; margin: 0 auto; width: 13%; height: 13%;">
-<img src="public/logo_itrop.png" style="display: block; margin: 0 auto; width: 14%; height: 25%;">
-<img src="public/logo-ird-grey.jpg" style="display: block; margin: 0 auto; width: 25%; height: 25%;">
+<img src="public/logo_ujkz.jpeg" style="display: block; margin: 0 auto; width: 16%;">
+<img src="public/logo_itrop.png" style="display: block; margin: 0 auto; width: 16%; ">
+<img src="public/logo-ird-grey.jpg" style="display: block; margin: 0 auto; width: 30%;">
 </div> 
