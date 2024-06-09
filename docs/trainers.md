@@ -37,7 +37,7 @@ title: Trainers
 
   <div style="flex: 1 1 calc(33.333% - 20px); text-align: center; margin-bottom: 20px;">
     <img src="public/trainer_julie_orjuela.jpg" style="height: 150px; border-radius: 50%;">
-    <p>Julie Orjuela Bouniol - IRD</p>
+    <p>Julie ORJUELA-BOUNIOL - IRD</p>
   </div>
 
   <div style="flex: 1 1 calc(33.333% - 20px); text-align: center; margin-bottom: 20px;">
@@ -47,12 +47,12 @@ title: Trainers
 
   <div style="flex: 1 1 calc(33.333% - 20px); text-align: center; margin-bottom: 20px;">
     <img src="public/trainer_francois_sabot.jpeg" style="height: 150px; border-radius: 50%;">
-    <p>François Sabot - IRD</p>
+    <p>François SABOT- IRD</p>
   </div>
 
   <div style="flex: 1 1 calc(33.333% - 20px); text-align: center; margin-bottom: 20px;">
     <img src="public/trainer_ndomassi_tando.jpg" style="height: 150px; border-radius: 50%;">
-    <p>Ndomassi Tando - IRD</p>
+    <p>Ndomassi TANDO- IRD</p>
   </div>
 
   <div style="flex: 1 1 calc(33.333% - 20px); text-align: center; margin-bottom: 20px;">
@@ -67,7 +67,7 @@ title: Trainers
 
   <div style="flex: 1 1 calc(33.333% - 20px); text-align: center; margin-bottom: 20px;">
     <img src="public/trainer_christine_tranchant.jpeg" style="height: 150px; border-radius: 50%;">
-    <p>Christine Tranchant-Dubreuil - IRD</p>
+    <p>Christine TRANCHANT-DUBREUIL - IRD</p>
   </div>
 
   <!-- Ajout d'un div vide pour équilibrer la dernière ligne -->

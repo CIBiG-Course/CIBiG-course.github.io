@@ -32,7 +32,7 @@ title: Contact
 
   <div style="flex: 1 1 calc(50% - 20px); text-align: center; margin-bottom: 20px;">
     <img src="public/trainer_christine_tranchant.jpeg" style="height: 150px; border-radius: 50%;">
-    <p>Christine Tranchant-Dubreuil - IRD</p>
+    <p>Christine TRANCHANT-DUBREUIL - IRD</p>
   </div>
 
 </div>
