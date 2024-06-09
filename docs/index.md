@@ -11,10 +11,8 @@ title: Home
 <br />
 <div>
  <p align="justify">
-The International Certificate in Bioinformatics and Genomics (CIBiG) offers an intensive training aimed at scientists at the intersection of mathematics, biology, and computer science.
-
-This training provides a rapid acquisition of essential skills in bioinformatics and genomics. It includes acquiring the fundamental principles of bioinformatics, understanding sequencing techniques and their application, as well as using bioinformatics tools to automate the collection and management of sequencing data. Additionally, it aims to develop practical skills in the analysis and interpretation of these data.
-
+The CIBiG will offer an intensive training aimed at PhD students and researchers who use sequencing technologies and data in their research.
+This training will provide comprehensive insights into sequencing, genomics and bioinformatics, and  will teach participants how to effectively use bioinformatics methods to analyse sequencing data, with a focus on applications in agriculture and health.
 
 <div style="display: flex; align-items: center;">
 <div style="margin-left: 15px; margin-right: 10px;">
