@@ -15,9 +15,10 @@ The International Certificate in Bioinformatics and Genomics (CIBiG) offers an i
 
 This training provides a rapid acquisition of essential skills in bioinformatics and genomics. It includes acquiring the fundamental principles of bioinformatics, understanding sequencing techniques and their application, as well as using bioinformatics tools to automate the collection and management of sequencing data. Additionally, it aims to develop practical skills in the analysis and interpretation of these data.
 
+
+  <img src="public/icon_calendar.png" width="4%" height="4%">&nbsp; &nbsp; <span>9 September - 4 Octobre 2024</span>
 <ul>
-  <li>9 September - 4 Octobre 2024</li>
-  <li>Where ? WAVE institute</li>
+<li>Where ? WAVE institute</li>
   <li>Cost :</li>
   <li>Contact : bioinfo@wave-center.org</li>
   <li>Open application with selection : 15 places</li>
