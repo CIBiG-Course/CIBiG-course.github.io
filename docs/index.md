@@ -25,7 +25,11 @@ This training provides a rapid acquisition of essential skills in bioinformatics
 </div>
 </div>
 
-
+<span style="display: inline-block; vertical-align: top; margin-right: 20px;">
+<img src="public/icon_calendar.png" width="4%" height="4%">
+</span>
+<span style="display: inline-block; vertical-align: top; max-width: 70%;">9 September - 4 Octobre 2024
+</span>
 
 <ul>
 <li>Where ? WAVE institute</li>
