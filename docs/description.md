@@ -13,21 +13,28 @@ The certificate provides comprehensive multidisciplinary training in advancing c
 * Communicate effectively for training and knowledge transfer.
 * Integrate open science and reproducibility principles.
 
+## Who is this course for?
+
+* The training is open to students, biologists, researchers, and computer engineers working in either private or public sectors.
+* Admission Requirements:
+  * At least a Master's degree or equivalent in biological sciences, human health sciences, or animal sciences. 
+  * Bachelor's degree plus at least 5 years of experience for professionals working in research organizations and technical ministries."
+  
 ## Program structure
 
 * 12 hours of distance learning
 * 153 hours in the WAVE center
 
-| Module                   | Description                                                                                                                                              | Hours |
-|--------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|----|  
-| Course review            | General biology, Genomics basis, Genome Structure and Dynamics / Evolution, Sequencing technologiesand Applications                                      | 12H | 
-| Sequencing: from library preparation to sequencing | Overview of Sequencing Technologies, RNA/DNA Extraction, Library Preparation for Illumina and ONT, Sequencing and Quality Control          | 38h |
-| Biological database      | Sequence Databases (e.g., NCBI/SWISS-Prot), Blast Alignment, Primer design                                                                               | 8h |
-| Linux                    | Basic Linux Commands,  Bioinformatics Tools (e.g., BLAST), Advanced Linux (e.g., sed, awk), VCF, GFF Manipulation, slurm, Containers (Singularity, Conda) | 32h |
-| Data analysis and visualization in R | Read Tabular File into DataFrame, DataFrame Manipulation, Data Visualization (Plotting), R Markdown                                                      | 12h |
-| OMICs data analysis | Diversity analysis / metagenomic analysis (ONT and illumina sequencing, Sequence Quality, Mapping, Structural Variant detection, SNP Annotation)         | 34h | 
-| Python programming       |                                                                                                                                                          | 28h |
-| open science and science reproductibility | Best Practices (Data Management, Code, Licensing), Containers (Docker, Singularity), Conda, Git, Snakemake                                               | 12h |
+| Module                                             | Description                                                                                                                                               | Hours |
+|----------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|----|  
+| Course review                                      | General biology, Genomics basis, Genome Structure and Dynamics / Evolution, Sequencing technologies and Applications                                      | 12H | 
+| Sequencing: from library preparation to sequencing | Overview of Sequencing Technologies, RNA/DNA Extraction, Library Preparation for Illumina and ONT, Sequencing and Quality Control                         | 38h |
+| Biological database                                | Sequence Databases (e.g., NCBI/SWISS-Prot), Blast Alignment, Primer design                                                                                | 8h |
+| Linux                                              | Basic Linux Commands,  Bioinformatics Tools (e.g., BLAST), Advanced Linux (e.g., sed, awk), VCF, GFF Manipulation, slurm, Containers (Singularity, Conda) | 32h |
+| Data analysis and visualization in R               | Read Tabular File into DataFrame, DataFrame Manipulation, Data Visualization (Plotting), R Markdown                                                       | 12h |
+| OMICs data analysis                                | Diversity analysis / metagenomic analysis (ONT and illumina sequencing, Sequence Quality, Mapping, Structural Variant detection, SNP Annotation)          | 34h | 
+| Python programming                                 |                                                                                                                                                           | 28h |
+| Science reproductibility                           | Best Practices (Data Management, Code, Licensing), Containers (Docker, Singularity), Conda, Git, Snakemake                                                | 12h |
 
 ### Practical sessions
 
