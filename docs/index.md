@@ -25,15 +25,45 @@ This training provides a rapid acquisition of essential skills in bioinformatics
 </div>
 </div>
 
-<ul>
-<li>Where ? WAVE institute</li>
-  <li>Cost :</li>
-  <li>Contact : bioinfo@wave-center.org</li>
-  <li>Open application with selection : 15 places</li>
-</ul>
-</p>
+<div style="display: flex; align-items: center;">
+<div style="margin-left: 5px; margin-right: 5px;">
+<img src="public/icon_place-5.png">
+</div>
+<div>
+
+The <a href="https://wave-center.org/" target_blank>WAVE Regional Center of Excellence</a>, Université Felix Houphouët Boigny, Pôle Scientifique et d'Innovation de Bingerville, Abijan
+</div>
 </div>
 
+<div style="display: flex; align-items: center;">
+<div style="margin-left: 5px; margin-right: 5px;">
+<img src="public/icon-dollar-5.png">
+</div>
+<div>
+2,000,000 CFA
+</div>
+</div>
+
+<div style="display: flex; align-items: center;">
+<div style="margin-left: 5px; margin-right: 5px;">
+<img src="public/icon_email-5.png">
+</div>
+<div>
+ bioinfo@wave-center.org
+</div>
+</div>
+
+<div style="display: flex; align-items: center;">
+<div style="margin-left: 5px; margin-right: 5px;">
+<img src="public/icon_apply-5.png">
+</div>
+<div>
+Open application with selection : 15 places
+</div>
+</div>
+</div>
+
+<br/>
 
 <div style="display:flex"> 
 <img src="public/logo_ujkz.jpeg" style="display: block; margin: 0 auto; width: 13%; height: 13%;">
