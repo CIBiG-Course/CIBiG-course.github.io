@@ -18,7 +18,7 @@ title: Contact
 
   <div style="flex: 1 1 calc(50% - 20px); text-align: center; margin-bottom: 20px;">
     <img src="public/trainer_anonym.jpeg" style="height: 150px; border-radius: 50%; margin: 0 auto;">
-    <p>Serge ANOMAN</p>
+    <p>Serge ANOMAN - WAVE</p>
   </div>
  
  <div style="flex: 1 1 calc(50% - 20px); text-align: center; margin-bottom: 20px;">
