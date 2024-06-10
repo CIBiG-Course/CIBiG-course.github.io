@@ -15,7 +15,13 @@ title: Contact
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
-<div style="flex: 1 1 calc(50% - 20px); text-align: center; margin-bottom: 20px;">
+
+  <div style="flex: 1 1 calc(50% - 20px); text-align: center; margin-bottom: 20px;">
+    <img src="public/trainer_anonym.jpeg" style="height: 150px; border-radius: 50%; margin: 0 auto;">
+    <p>Serge ANOMAN</p>
+  </div>
+ 
+ <div style="flex: 1 1 calc(50% - 20px); text-align: center; margin-bottom: 20px;">
     <img src="public/trainer_romaric.jpeg" style="height: 150px; border-radius: 50%; margin: 0 auto;">
     <p>Romaric Kiswendsida NANEMA - Université Joseph Ki-Zerbo</p>
   </div>
