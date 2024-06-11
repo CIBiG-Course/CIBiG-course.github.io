@@ -19,7 +19,11 @@ The certificate provides comprehensive multidisciplinary training in advancing c
 * Admission Requirements:
   * At least a Master's degree or equivalent in biological sciences, human health sciences, or animal sciences. 
   * Bachelor's degree plus at least 5 years of experience for professionals working in research organizations and technical ministries."
-  
+
+## Language
+
+The course will be in French, but the slides and other course material will be in English.
+
 ## Program structure
 
 * 12 hours of distance learning
