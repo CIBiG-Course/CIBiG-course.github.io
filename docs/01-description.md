@@ -3,7 +3,7 @@ layout: page
 title: Program overview
 ---
 
-The certificate provides comprehensive multidisciplinary training in advancing computing, programming, genome sequencing, data reproducibility, open science, and specialized bioinformatics.
+The course  provides comprehensive multidisciplinary training in genome sequencing, advancing computing, programming, data reproducibility, open science, and specialized bioinformatics.
 
 * Understanding fundamental bioinformatics concepts 
 * Develop practical skills in sequencing genome and analysis of sequencing data.
